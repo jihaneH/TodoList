@@ -6,7 +6,7 @@
 ├── assets
 │   ├── todo.css
 │   ├── todo.js
-│   └── __todo.js
+│   └── todo_jquery.js
 │ 
 ├── ajax
 │   ├── todo.add.php
