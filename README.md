@@ -56,7 +56,7 @@ Le script a importer est :
 ```html
     <script src="todo.js"></script>
 ```
-Verifier que la ligne 53 est decommenté  et la ligne 54 commenté
+Verifier que la ligne 53 est decommentée  et la ligne 54 commentée
 ```html
             <td><button type="button" class="btn btn-info show" onClick="showTodo(<?= $todo->id; ?>)">Voir</button></td> 
     <!--     <td><button type="button" class="btn btn-info show" >Voir</button></td> -->
@@ -67,7 +67,7 @@ Verifier que la ligne 53 est decommenté  et la ligne 54 commenté
 ```html
     <script src="todo_jquery.js"></script>
 ```
-Verifier que la ligne 53 est commenté  et la ligne 54 décommenté
+Verifier que la ligne 53 est commentée et la ligne 54 décommentée 
 ```html
       <!--       <td><button type="button" class="btn btn-info show" onClick="showTodo(< ?= $todo->id; ?>)">Voir</button></td>  -->
         <td><button type="button" class="btn btn-info show" >Voir</button></td> 
